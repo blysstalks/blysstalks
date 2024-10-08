@@ -1,0 +1,62 @@
+---
+title: "BLYSS Talks"
+subtitle: "Conversations That Connect and Inspire"
+format:
+  html:
+    theme: minty
+    css: styles.css
+    toc: true
+    default-image-extension: svg
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(ggplot2)
+```
+
+## Welcome to BLYSS Talks
+
+BLYSS Talks is a podcast channel dedicated to fostering meaningful connections and inspiring personal growth. Join us as we explore the diverse facets of human experience, community building, and self-realization.
+
+[Listen Now]{.btn .btn-primary}
+
+## What Makes BLYSS Talks Unique?
+
+Our podcast series is structured around the BLYSS framework, reflecting the journey of personal and community development:
+
+
+![](blyss-interconnected-circles.svg){width=60%}
+
+
+-   **B**elonging: Stories of finding one's place in new communities
+-   **L**ife Essentials: Discussions on meeting basic needs in challenging environments
+-   **Y**our Safety: Conversations about creating secure and supportive networks
+-   **S**elf-Esteem: Interviews with individuals who've overcome challenges to build confidence
+-   **S**elf-Actualization: Insights from those who've achieved personal growth and helping others
+
+## Featured Episodes
+
+1.  "Finding Home Away from Home" - A chat with expats in Chemnitz
+2.  "Building Inclusive Communities" - Insights from local organizers
+3.  "From Isolation to Connection" - A journey of overcoming loneliness
+4.  "Empowering Through Education" - Stories of personal growth and development
+
+[Explore All Episodes]{.btn .btn-secondary}
+
+## Join the BLYSS Community
+
+BLYSS Talks is just the beginning. Stay tuned for the upcoming launch of our BLYSS app, designed to help you connect with local communities and resources that align with your personal growth journey.
+
+[BLYSS App Coming Soon!]{.badge .bg-warning}
+
+## Get Involved
+
+Have a story to share? Want to be a guest on BLYSS Talks? We're always looking for inspiring individuals and communities to feature on our podcast.
+
+blysstalks@gmail.com
+
+[Contact Us]{.btn .btn-success}
+
+------------------------------------------------------------------------
+
+© 2024 BLYSS Talks. Hosted by Arun Jose, Master Student at TU Chemnitz

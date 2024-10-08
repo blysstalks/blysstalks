@@ -1,0 +1,96 @@
+---
+title: "About Us"
+toc: false
+page-layout: full
+---
+
+```{=html}
+<style>
+.team-container {
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+.team-member {
+    margin-bottom: 30px;
+    padding: 15px;
+    background-color: white;
+    border-radius: 5px;
+    display: flex;
+    align-items: start;
+}
+.team-member img {
+    width: 120px;
+    height: 120px;
+    border-radius: 60px;
+    margin-right: 20px;
+    object-fit: cover;
+}
+.member-info {
+    flex: 1;
+}
+.team-member h3 {
+    color: #2c3e50;
+    margin-top: 0;
+}
+.social-links a {
+    display: inline-block;
+    margin-right: 10px;
+    color: #3498db;
+    text-decoration: none;
+}
+.social-links a:hover {
+    text-decoration: underline;
+}
+</style>
+```
+
+:::{.team-container}
+
+We are the passionate team behind BLYSS, dedicated to fostering meaningful connections and inspiring personal growth through our innovative community finder app.
+
+:::{.team-member}
+![](images/arun-jose.jpg)
+
+:::{.member-info}
+### Arun Jose
+
+Arun is a visionary Master's student at TU Chemnitz and a member of the European Youth Parliament. With a background in technology and a passion for community building, Arun brings a unique perspective to the BLYSS project, bridging the gap between technological innovation and social impact.
+
+:::{.social-links}
+[LinkedIn](https://linkedin.com/in/arunjose) | [Twitter](https://twitter.com/arunjose)
+:::
+:::
+:::
+
+:::{.team-member}
+![](images/matthias.jpg)
+
+:::{.member-info}
+### Matthias
+
+Matthias is an experienced software developer with a keen interest in user experience design. His expertise in creating intuitive and accessible interfaces is crucial in making BLYSS a user-friendly platform for people of all abilities. Matthias is passionate about using technology to create positive social change.
+
+:::{.social-links}
+[LinkedIn](https://linkedin.com/in/matthias) | [GitHub](https://github.com/matthias)
+:::
+:::
+:::
+
+:::{.team-member}
+![](images/thomas.jpg)
+
+:::{.member-info}
+### Thomas
+
+Thomas brings a wealth of knowledge in community engagement and social psychology to the BLYSS team. With a background in organizational behavior and a passion for fostering inclusive environments, Thomas ensures that BLYSS truly meets the needs of diverse communities and individuals seeking connection and growth.
+
+:::{.social-links}
+[LinkedIn](https://linkedin.com/in/thomas) | [Twitter](https://twitter.com/thomas)
+:::
+:::
+:::
+
+:::

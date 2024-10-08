@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <style>
+    .circle { transition: all 0.3s ease; }
+    .circle:hover { filter: brightness(1.2); }
+    .text { font-family: Arial, sans-serif; font-weight: bold; }
+    .title { font-family: Arial, sans-serif; font-weight: bold; fill: #333; }
+    @keyframes pulse { 
+      0% { transform: scale(1); }
+      50% { transform: scale(1.05); }
+      100% { transform: scale(1); }
+    }
+    .pulse { animation: pulse 4s infinite; }
+  </style>
+  
+  <!-- Background -->
+  <rect width="500" height="500" fill="#FFFFFF"/>
+  
+  <!-- BLYSS Circle -->
+  <g class="circle" opacity="0.7">
+    <circle cx="250" cy="250" r="240" fill="#4CAF50"/>
+  </g>
+  
+  <!-- Component Circles -->
+  <g class="circle pulse" opacity="0.6">
+    <circle cx="180" cy="180" r="110" fill="#2196F3"/>
+  </g>
+  
+  <g class="circle pulse" opacity="0.6">
+    <circle cx="320" cy="180" r="110" fill="#FFC107"/>
+  </g>
+  
+  <g class="circle pulse" opacity="0.6">
+    <circle cx="180" cy="320" r="110" fill="#FF5722"/>
+  </g>
+  
+  <g class="circle pulse" opacity="0.6">
+    <circle cx="320" cy="320" r="110" fill="#9C27B0"/>
+  </g>
+
+  <g class="circle pulse" opacity="0.6">
+    <circle cx="250" cy="250" r="90" fill="#E91E63"/>
+  </g>
+
+  <!-- Titles -->
+  <text x="180" y="180" font-size="16" fill="white" text-anchor="middle" class="text">Life Essentials</text>
+  <text x="320" y="180" font-size="16" fill="white" text-anchor="middle" class="text">Your Safety</text>
+  <text x="180" y="320" font-size="16" fill="white" text-anchor="middle" class="text">Belonging</text>
+  <text x="320" y="320" font-size="16" fill="white" text-anchor="middle" class="text">Self-Esteem</text>
+  <text x="250" y="250" font-size="16" fill="white" text-anchor="middle" class="text">Self-Actualization</text>
+</svg>
