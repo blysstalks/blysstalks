@@ -24,9 +24,7 @@ BLYSS Talks is a podcast channel dedicated to fostering meaningful connections a
 
 Our podcast series is structured around the BLYSS framework, reflecting the journey of personal and community development:
 
-
-![](blyss-interconnected-circles.svg){width=60%}
-
+![](blyss-interconnected-circles.svg){width="60%"}
 
 -   **B**elonging: Stories of finding one's place in new communities
 -   **L**ife Essentials: Discussions on meeting basic needs in challenging environments
@@ -35,11 +33,10 @@ Our podcast series is structured around the BLYSS framework, reflecting the jour
 -   **S**elf-Actualization: Insights from those who've achieved personal growth and helping others
 
 ## Featured Episodes
+	
+1. Exploring Chemnitz: Empowerment for local initiatives and groups (Episode 2)
 
-1.  "Finding Home Away from Home" - A chat with expats in Chemnitz
-2.  "Building Inclusive Communities" - Insights from local organizers
-3.  "From Isolation to Connection" - A journey of overcoming loneliness
-4.  "Empowering Through Education" - Stories of personal growth and development
+{{< video https://youtu.be/APynziqWyZY?si=RmQFPd1kFWheMY0O title="Exploring Chemnitz: Empowerment for local initiatives and groups (Episode 2)" start="116" aspect-ratio="21x9" >}}
 
 [Explore All Episodes]{.btn .btn-secondary}
 
@@ -53,7 +50,7 @@ BLYSS Talks is just the beginning. Stay tuned for the upcoming launch of our BLY
 
 Have a story to share? Want to be a guest on BLYSS Talks? We're always looking for inspiring individuals and communities to feature on our podcast.
 
-blysstalks@gmail.com
+blysstalks\@gmail.com
 
 [Contact Us]{.btn .btn-success}
 
