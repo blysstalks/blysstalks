@@ -71,10 +71,10 @@ Arun is a visionary Master's student at TU Chemnitz and a member of the European
 :::{.member-info}
 ### Matthias
 
-Matthias is an experienced software developer with a keen interest in user experience design. His expertise in creating intuitive and accessible interfaces is crucial in making BLYSS a user-friendly platform for people of all abilities. Matthias is passionate about using technology to create positive social change.
+
 
 :::{.social-links}
-[LinkedIn](https://linkedin.com/in/matthias) | [GitHub](https://github.com/matthias)
+[LinkedIn]() 
 :::
 :::
 :::
@@ -85,10 +85,10 @@ Matthias is an experienced software developer with a keen interest in user exper
 :::{.member-info}
 ### Thomas
 
-Thomas brings a wealth of knowledge in community engagement and social psychology to the BLYSS team. With a background in organizational behavior and a passion for fostering inclusive environments, Thomas ensures that BLYSS truly meets the needs of diverse communities and individuals seeking connection and growth.
+
 
 :::{.social-links}
-[LinkedIn](https://linkedin.com/in/thomas) | [Twitter](https://twitter.com/thomas)
+[LinkedIn](https://linkedin.com/in/thomas) 
 :::
 :::
 :::
